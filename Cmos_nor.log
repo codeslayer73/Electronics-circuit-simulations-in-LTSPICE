@@ -1,0 +1,25 @@
+Circuit: * C:\Users\Tomm\Documents\LTspiceXVII\VLSI\Cmos_nor.asc
+
+Limiting rise time of source v§b to 5e-010
+Limiting fall time of source v§b to 5e-010
+Limiting rise time of source v§a to 5e-010
+Limiting fall time of source v§a to 5e-010
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Sep 03 09:55:02 2021
+Total elapsed time: 0.100 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2968
+traniter = 2963
+tranpoints = 1131
+accept = 1107
+rejected = 24
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1: 336 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

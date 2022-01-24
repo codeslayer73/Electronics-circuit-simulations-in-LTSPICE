@@ -1,0 +1,30 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -31 32 -63 32
+LINE Normal -32 -16 -64 -16
+LINE Normal 64 -16 32 -16
+LINE Normal 64 32 32 32
+LINE Normal 0 -47 0 -80
+RECTANGLE Normal 32 48 -32 -47
+TEXT -31 32 Left 1 D
+TEXT -32 -16 Left 1 CLK
+TEXT 32 -16 Right 1 Q
+TEXT 32 32 Right 1 QQ
+WINDOW 0 4 -62 Left 0
+WINDOW 38 -22 6 Left 0
+SYMATTR SpiceModel D Flipflop
+PIN -64 -16 NONE 8
+PINATTR PinName CP
+PINATTR SpiceOrder 1
+PIN -64 32 NONE 8
+PINATTR PinName D
+PINATTR SpiceOrder 2
+PIN 64 -16 NONE 8
+PINATTR PinName Q
+PINATTR SpiceOrder 3
+PIN 64 32 NONE 8
+PINATTR PinName QQ
+PINATTR SpiceOrder 4
+PIN 0 -80 NONE 8
+PINATTR PinName VDD
+PINATTR SpiceOrder 5
